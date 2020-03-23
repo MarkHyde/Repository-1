@@ -17,7 +17,12 @@ namespace ConsoleApp1
         public double cena;
 
 
-        
+        public void Boot(string proizvod, float size, double cena)
+        {
+            this.proizvod = proizvod;
+            this.size = size;
+            this.cena = cena;
+        }
 
 
 
