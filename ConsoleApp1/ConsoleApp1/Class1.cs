@@ -15,6 +15,14 @@ namespace ConsoleApp1
         private string proizvod;
         public float size;
         public double cena;
+
+
+        
+
+
+
+
+
         public string Proizvod
         {
             get
